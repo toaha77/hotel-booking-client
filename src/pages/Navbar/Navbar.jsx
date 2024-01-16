@@ -40,7 +40,7 @@ const Navbar = () => {
             isPending
               ? "pending"
               : isActive
-              ? " font-semibold  underline"
+              ? "font-semibold  underline"
               : ""
           }
         >
@@ -69,7 +69,7 @@ const Navbar = () => {
     </ul>
   </div>
   <div className="navbar-end">
-    <a className="btn">Button</a>
+    <a className="btn">Book Now</a>
   </div>
 </div>
         </div>
