@@ -5,6 +5,7 @@ import MainLayout from "../layout/MainLayout";
 import Home from "../pages/Home/Home";
 import Rooms from "../pages/Rooms/Rooms";
 import Contact from "../Component/Contact/Contact";
+import Gallery from "../pages/Gallery/Gallery";
 const router = createBrowserRouter([
     {
       path: "/",
@@ -21,6 +22,10 @@ const router = createBrowserRouter([
         {
           path: '/contact',
           element: <Contact></Contact>
+        },
+        {
+          path: '/gallery',
+          element: <Gallery></Gallery>
         }
       ]
     },
