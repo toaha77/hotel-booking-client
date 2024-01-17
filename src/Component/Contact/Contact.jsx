@@ -40,7 +40,7 @@ const Contact = () => {
          <label>Your Name</label>
           <input
             type="text"
-            className=" w-full input input-accent"
+            className=" w-full input border-blue-500"
             placeholder="Your Name"
             name="user_name"
             required
@@ -50,7 +50,7 @@ const Contact = () => {
           <div>
           <input
             type="email"
-            className="  w-full input input-accent"
+            className="  w-full input border-blue-500"
             placeholder="Your Email"
             name="user_email"
             required
@@ -59,7 +59,7 @@ const Contact = () => {
         <div>
         <label>Message</label> <br />
           <textarea
-            className="w-full textarea input-accent p-1  rounded-sm   mt-2"
+            className="w-full textarea border-blue-500 p-1  rounded-sm   mt-2"
             name="message"
             id=""
             cols="30"
@@ -68,8 +68,8 @@ const Contact = () => {
             required
           ></textarea>
         </div>
-         <div className="flex items-center justify-center">
-         <input type="submit" className="btn bg-green-500 text-white hover:bg-green-500 text-white" value="Send" />
+         <div className="flex items-center justify-center mt-2">
+         <input type="submit" className="btn bg-blue-500 w-full  text-white hover:bg-blue-500 text-white" value="Send" />
          </div>
         </form>
       </div>
