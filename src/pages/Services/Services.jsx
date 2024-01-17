@@ -5,7 +5,7 @@ const Services = () => {
     <div className="mt-4">
         <h3 className="text-center text-blue-500 salsa">AMENITIES & SERVICES</h3>
       <h1 className="text-5xl salsa text-center">Facilities & Services</h1>
-      <div className="grid grid-cols-1 lg:grid-cols-4">
+      <div className="grid grid-cols-1 lg:grid-cols-4 gap-4">
       <div className="card bg-base-100 shadow-xl">
         <figure className="px-5 pt-10">
           <FaRegCreditCard className="text-4xl flex items-center justify-center"></FaRegCreditCard>
