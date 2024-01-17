@@ -32,7 +32,7 @@ const Services = () => {
         </figure>
         <div className="card-body items-center text-center">
         <h3 className="uppercase text-3xl font-sans text-gray-600">
-            INFINITY POOL
+            infinity pool
           </h3>
         </div>
       </div>
