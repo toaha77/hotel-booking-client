@@ -37,22 +37,22 @@ const data =[
         img: '/public/manuel-moreno-DGa0LQ0yDPc-unsplash.jpg'
     },
     {
-        img: '/public/kelsey-curtis--27u_GzlAFw-unsplash.jpg'
+        img: '/kelsey-curtis--27u_GzlAFw-unsplash.jpg'
     },
     {
-        img: '/public/pexels-asman-chema-594077.jpg'
+        img: '/pexels-asman-chema-594077.jpg'
     },
     {
-        img: '/public/pexels-donald-tong-189296.jpg'
+        img: '/pexels-donald-tong-189296.jpg'
     },
     {
-        img: '/public/pexels-pixabay-258154.jpg'
+        img: '/pexels-pixabay-258154.jpg'
     },
     {
-        img: '/public/saad-khan-425b2PhNuHA-unsplash.jpg'
+        img: '/saad-khan-425b2PhNuHA-unsplash.jpg'
     },
     {
-        img: '/public/sasha-kaunas-TAgGZWz6Qg8-unsplash.jpg'
+        img: '/sasha-kaunas-TAgGZWz6Qg8-unsplash.jpg'
     },
 ]
 
