@@ -1,6 +1,6 @@
 const Package = () => {
   return (
-    <div>
+    <div className="mt-6">
       <div
         className=" bg-center bg-cover h-[70vh]"
         style={{
