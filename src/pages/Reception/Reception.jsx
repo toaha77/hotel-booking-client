@@ -18,7 +18,7 @@ const Reception = () => {
         <div
           className=" bg-center bg-cover h-72"
           style={{
-            backgroundImage: "url(https://i.ibb.co/7KNqh2H/h.jpg)",
+            backgroundImage: "url(https://i.ibb.co/FBGmNSg/IMG-1169-2-scaled.jpg)",
           }}
         >
             <div className="flex items-center justify-center">
@@ -26,13 +26,12 @@ const Reception = () => {
             </div>
                 <p className="text-center text-5xl text-white uppercase">suites</p>
         </div>
-        
       </div>
       <div>
       <div
         className=" bg-center bg-cover h-72"
         style={{
-          backgroundImage: "url(https://i.ibb.co/7KNqh2H/h.jpg)",
+          backgroundImage: "url(https://i.ibb.co/p0qrwhr/Screenshot-2023-12-18-at-8-30-24-PM.png)",
         }}
       >
            <div className="flex items-center justify-center">
