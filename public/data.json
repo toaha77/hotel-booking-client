@@ -1,8 +1,8 @@
 [
     {
         "title": "Super Deluxe King",
-        "img" : "https://ibb.co/5c0TZCy",
-        "short_description": "2 Guests.",
+        "img" : "https://i.ibb.co/R9RjKh9/pexels-vecislavas-popa-1743231.jpg",
+        "short_description": "2 Guests",
         "description": "Discover luxury in the Super Deluxe King Room at Long Beach Hotel, where elegance and comfort unite with modern decor.",
         "price": "$149.99",
         "buttons": "Book Now",
@@ -14,8 +14,8 @@
       },
     {
         "title": "Junior Suite",
-        "img" : "https://ibb.co/BjvNkd1",
-        "short_description": "2 Guests.",
+        "img" : "https://i.ibb.co/18XhBt7/pexels-photomix-company-97083.jpg",
+        "short_description": "2 Guests",
         "description": "Step into the Junior Suite at Long Beach Hotel for a luxurious stay with stunning ocean views and spacious elegance.",
         "price": "$159.99",
         "buttons": "Book Now",
@@ -27,8 +27,8 @@
       },
     {
         "title": "Presidential Suite",
-        "img" : "https://ibb.co/4s8nz8c",
-        "short_description": "2 Guests.",
+        "img" : "https://i.ibb.co/R9RjKh9/pexels-vecislavas-popa-1743231.jpg",
+        "short_description": "2 Guests",
         "description": "Discover luxury in the Super Deluxe King Room at Long Beach Hotel, where elegance and comfort unite with modern decor.",
         "price": "$249.99",
         "buttons": "Book Now",
@@ -40,8 +40,8 @@
       },
     {
         "title": "Executive Suite",
-        "img" : "https://ibb.co/wQFr3HP",
-        "short_description": "2 Guests.",
+        "img" : "https://i.ibb.co/9pCZVGq/pexels-pixabay-237371.jpg",
+        "short_description": "2 Guests",
         "description": "Discover luxury in the Super Deluxe King Room at Long Beach Hotel, where elegance and comfort unite with modern decor.",
         "price": "$179.99",
         "buttons": "Book Now",
@@ -53,21 +53,21 @@
       },
     {
         "title": "Infinity Sea View",
-        "img" : "https://ibb.co/gWTbVFx",
-        "short_description": "2 Guests.",
+        "img" : "https://i.ibb.co/KbDBptP/pexels-pixabay-210604.jpg",
+        "short_description": "2 Guests",
         "description": "Discover luxury in the Super Deluxe King Room at Long Beach Hotel, where elegance and comfort unite with modern decor.",
         "price": "$279.99",
         "buttons": "Book Now",
         "images": [
-          "https://example.com/wallet_image1.jpg",
+          "",
           "https://example.com/wallet_image2.jpg",
           "https://example.com/wallet_image3.jpg"
         ]
       },
     {
         "title": "Deluxe",
-        "img" : "https://ibb.co/S03Xspf",
-        "short_description": "2 Guests.",
+        "img" : "https://i.ibb.co/CbHVK88/pexels-pixabay-279746.jpg",
+        "short_description": "2 Guests",
         "description": "Discover luxury in the Super Deluxe King Room at Long Beach Hotel, where elegance and comfort unite with modern decor.",
         "price": "$119.99",
         "buttons": "Book Now",
@@ -79,8 +79,8 @@
       },
     {
         "title": "Premier Deluxe",
-        "img" : "https://ibb.co/PGKMSR1",
-        "short_description": "2 Guests.",
+        "img" : "https://i.ibb.co/61MQnXt/pexels-pixabay-164595.jpg",
+        "short_description": "2 Guests",
         "description": "Discover luxury in the Super Deluxe King Room at Long Beach Hotel, where elegance and comfort unite with modern decor.",
         "price": "$119.99",
         "buttons": "Book Now",
@@ -92,8 +92,8 @@
       },
     {
         "title": "Superior Deluxe",
-        "img" : "https://ibb.co/N7bdmWW",
-        "short_description": "2 Guests.",
+        "img" : "https://i.ibb.co/jfqVwXT/pexels-pixabay-271619.jpg",
+        "short_description": "2 Guests",
         "description": "Discover luxury in the Super Deluxe King Room at Long Beach Hotel, where elegance and comfort unite with modern decor.",
         "price": "$109.99",
         "buttons": "Book Now",
@@ -105,28 +105,15 @@
       },
     {
         "title": "Honeymoon Suite",
-        "img" : "https://ibb.co/N7bdmWW",
-        "short_description": "2 Guests.",
+        "img" : "https://i.ibb.co/MB84hhn/Whats-App-Image-2023-12-27-at-14-50-14-e9bc866c-300x159-jpg.webp",
+        "short_description": "2 Guests",
         "description": "Discover luxury in the Super Deluxe King Room at Long Beach Hotel, where elegance and comfort unite with modern decor.",
         "price": "$109.99",
         "buttons": "Book Now",
         "images": [
           "https://example.com/wallet_image1.jpg",
           "https://example.com/wallet_image2.jpg",
-          "https://example.com/wallet_image3.jpg"
-        ]
-      },
-    {
-        "title": "Panorama Suite",
-        "img" : "https://ibb.co/KqKh7Z9",
-        "short_description": "2 Guests.",
-        "description": "Discover luxury in the Super Deluxe King Room at Long Beach Hotel, where elegance and comfort unite with modern decor.",
-        "price": "$149.99",
-        "buttons": "Book Now",
-        "images": [
-          "https://example.com/wallet_image1.jpg",
-          "https://example.com/wallet_image2.jpg",
-          "https://example.com/wallet_image3.jpg"
+          "https://ibb.co/KqKh7Z9"
         ]
       }
       
