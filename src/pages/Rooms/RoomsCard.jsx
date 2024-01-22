@@ -28,7 +28,7 @@ const RoomsCard = () => {
               </div>
                 <p>{data.description}</p>
                 <div className="card-actions justify-center">
-                  <button className="btn  btn-outline  hover:bg-blue-500 text-white">Book Now</button>
+                  <button className="btn   bg-blue-500   hover:bg-blue-500">Book Now</button>
                 </div>
               </div>
             </div>
