@@ -7,6 +7,7 @@ import Rooms from "../pages/Rooms/Rooms";
 import Contact from "../Component/Contact/Contact";
 import Gallery from "../pages/Gallery/Gallery";
 import Events from "../pages/Events/Events";
+import Offers from "../pages/Offers/Offers";
 const router = createBrowserRouter([
     {
       path: "/",
@@ -32,6 +33,10 @@ const router = createBrowserRouter([
         {
           path: '/events',
           element: <Events></Events>
+        },
+        {
+          path: '/offers',
+          element: <Offers></Offers>
         }
       ]
     },
