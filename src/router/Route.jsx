@@ -6,6 +6,7 @@ import Home from "../pages/Home/Home";
 import Rooms from "../pages/Rooms/Rooms";
 import Contact from "../Component/Contact/Contact";
 import Gallery from "../pages/Gallery/Gallery";
+import Events from "../pages/Events/Events";
 const router = createBrowserRouter([
     {
       path: "/",
@@ -27,6 +28,10 @@ const router = createBrowserRouter([
         {
           path: '/gallery',
           element: <Gallery></Gallery>
+        },
+        {
+          path: '/events',
+          element: <Events></Events>
         }
       ]
     },

@@ -35,6 +35,34 @@ const Navbar = () => {
       </li>
      <li>
         <NavLink
+          to="/gallery"
+          className={({ isActive, isPending }) =>
+            isPending
+              ? "pending"
+              : isActive
+              ? " font-semibold  underline"
+              : ""
+          }
+        >
+          Gallery
+        </NavLink>
+      </li>
+     <li>
+        <NavLink
+          to="/events"
+          className={({ isActive, isPending }) =>
+            isPending
+              ? "pending"
+              : isActive
+              ? " font-semibold  underline"
+              : ""
+          }
+        >
+          Events
+        </NavLink>
+      </li>
+     <li>
+        <NavLink
           to="/contact"
           className={({ isActive, isPending }) =>
             isPending
